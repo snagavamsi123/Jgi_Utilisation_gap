@@ -1,0 +1,20 @@
+body{
+	top:100;
+}
+
+table,td,th{
+	top:10;
+	table-layout:fixed;
+	border:1px solid black;
+	border-collapse:collapse;
+	background-color:gray;
+	height:1px;
+	width:80%;
+	
+}
+input {
+	size:11px;
+}
+
+
+	
